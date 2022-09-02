@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Signe</h1>
+<h1 align="center">Hey 👋 I'm Signe</h1>
 <h3 align="center">A passionate back-end developer based in London, UK</h3>
 
 - 🔭 I’m currently working on **a web resume**
