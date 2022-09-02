@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋 I'm Signe</h1>
 <h3 align="center">A passionate back-end developer based in London, UK</h3>
 
-- 🔭 I’m currently working on **a web resume**
+- 🌱 I’m currently learning **React, Vue, GSAP**
 
-- 🌱 I’m currently learning **React, GSAP**
-
-- 👯 I’m looking to collaborate on **any cool project proposal**
+- 👯 I’m looking to collaborate on **any cool full-stack project proposal**
 
 - 💬 Ask me about **Java, Spring**
 
