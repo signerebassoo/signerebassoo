@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React, Vue, GSAP**
 
-- 👯 I’m looking to collaborate on **any cool full-stack project proposal**
+- 💬 You can ask me about **Java, Spring**
 
-- 💬 Ask me about **Java, Spring**
+- 👯 I’m looking to collaborate on **any cool full-stack project proposal**
 
 - 📫 How to reach me **signe.rebassoo@gmail.com**
 
