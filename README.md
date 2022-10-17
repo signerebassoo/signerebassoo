@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋 I'm Signe</h1>
-<h3 align="center">A passionate back-end developer based in London, UK</h3>
+<h3 align="center">A full-time back-end developer based in London, UK</h3>
 
-- 🌱 I’m currently learning **React, Vue, GSAP**
+- 🌱 I’m currently learning **React, Tailwind and GSAP**
 
-- 💬 You can ask me about **Java, Spring**
-
-- 👯 I’m looking to collaborate on **any cool full-stack project proposal**
+- 💬 You can ask me about **Java, Domain-Driven Design**
 
 - 📫 How to reach me **signe.rebassoo@gmail.com**
 
